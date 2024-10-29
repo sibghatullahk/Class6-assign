@@ -1,7 +1,7 @@
 import Navbar from "../components/Navbar";
 import Newfoot from "../components/Newfoot";
-export default menu
-function menu (){
+export default 
+function blog (){
     return(
         <div>
         <Navbar/>
