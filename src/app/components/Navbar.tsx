@@ -23,7 +23,7 @@ function Navbar(){
         <div className="bg-blue-900 w-20 h-10 hover:bg-black"><p className=" text-center text-slate-50 mt-1"><Link href="/about">About</Link></p></div>
         <div className="bg-blue-900 w-20 h-10 hover:bg-black"><p className=" text-center text-slate-50 mt-1"><Link href="/blog">Blogs</Link></p></div>
         
-        <div className="flex w-auto items-center space-x-2 ml-4">"
+        <div className="flex w-auto items-center space-x-2 ml-4">
         <div className="bg-gray-700 w-24 h-12 hover:bg-gray-800 rounded-md"><p className="text-center text-white mt-1"><Link href="/signin">Sign In / Sign Up</Link></p></div>
 
         <div className="bg-red-500 w-24 h-10 hover:bg-red-600 rounded-md"><p className="text-center text-white mt-1"><Link href="/post-ad">Post an Ad</Link></p></div>
