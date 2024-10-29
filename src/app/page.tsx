@@ -53,7 +53,7 @@ export default function Home() {
 </div>
 
 <div className="flex flex-col w-1/2 rounded-md p-4 h-[300px] bg-slate-300">
-  <h1>Try Mywheels 'Sell it for You'</h1>
+  <h1>Try Mywheels Sell it for You</h1>
   <div>
     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Est doloribus dolor inventore repellendus molestias, culpa dolorum cum accusantium. Non consequatur odio eum harum officiis nesciunt, laboriosam reiciendis quis</p>
     <br />
