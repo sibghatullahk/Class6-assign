@@ -80,7 +80,7 @@ export default function Home() {
           {/* Image Card 1 */}
           <div className="flex flex-row">
 
-          <Link href="/cardet" className="w-5/12 bg-gray-600 h-300 rounded-md shadow-md p-2 m-2">
+          <Link href="/cardet" className="w-1/4 bg-gray-600 h-400 rounded-md shadow-md p-2 m-2">
         <div>
     {/* <Image
       src="/path/to/your/image1.jpg"

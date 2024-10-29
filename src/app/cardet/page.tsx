@@ -1,7 +1,6 @@
 import Navbar from "../components/Navbar";
 import Newfoot from "../components/Newfoot";
 import Link from "next/link";
-import Payment from "../payment/page";
 
 export default function Cardet () {
     return (

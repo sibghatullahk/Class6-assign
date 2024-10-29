@@ -1,8 +1,7 @@
-export default Gallery
 import Navbar from "../components/Navbar";
 import Newfoot from "../components/Newfoot";
 
-function Gallery (){
+export default function Gallery (){
     return(
         <div>
             <Navbar/>
