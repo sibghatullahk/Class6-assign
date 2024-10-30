@@ -6,11 +6,17 @@ function Navbar(){
     return(
         <div>
             <header>
-        <nav className=" flex w-full rounded-md bg-sky-900 h-28">
-          <div className="flex w-auto">
-            <div className="w-20 h-28"><p className=" text-pretty text-slate-50 rounded-sm"><Image src="/pakwheels.jpeg" width={100} height={50} alt="Logo"/></p>
-          </div>
-        </div>
+        <nav className=" flex w-full rounded-md bg-blue-800 h-28">
+        <div className="flex items-center w-auto h-full">
+                    <div className="w-32 h-28 flex items-center justify-center bg-cyan-500">
+                        <Image
+                            src="https://th.bing.com/th/id/OIP.lBsrxY0Vi5XVX2kni2-krAAAAA?rs=1&pid=ImgDetMain"
+                            width={300} // Adjust size as needed
+                            height={300} // Adjust size as needed
+                            alt="Logo"
+                        />
+                    </div>
+                </div>
         <div className="flex w-11/12 justify-end items-center">
         <div className="bg-blue-900 w-20 h-10 hover:bg-black"><p className=" text-center text-slate-50 mt-1"><Link href="/">Home</Link></p></div>
         <div className="bg-blue-900 w-20 h-10 hover:bg-black"><p className=" text-center text-slate-50 mt-1"><Link href="/">Used cars</Link></p></div>
