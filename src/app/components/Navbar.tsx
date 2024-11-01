@@ -6,13 +6,13 @@ function Navbar(){
     return(
         <div>
             <header>
-        <nav className=" flex w-full rounded-md bg-blue-800 h-28">
+        <nav className=" flex w-full rounded-md bg-blue-900 h-28">
         <div className="flex items-center w-auto h-full">
-                    <div className="w-32 h-28 flex items-center justify-center bg-cyan-500">
+                    <div className="w-36 h-28 flex items-center justify-center ml-2">
                         <Image
-                            src="https://th.bing.com/th/id/OIP.lBsrxY0Vi5XVX2kni2-krAAAAA?rs=1&pid=ImgDetMain"
-                            width={300} // Adjust size as needed
-                            height={300} // Adjust size as needed
+                            src="https://wsa1.pakwheels.com/assets/new-pw-logo-white-c4cd16ae34613cc1fa16d7840f34a71e.svg"
+                            width={300}
+                            height={300} 
                             alt="Logo"
                         />
                     </div>
